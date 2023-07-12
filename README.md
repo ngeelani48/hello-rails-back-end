@@ -34,7 +34,7 @@
 
 **hello_rails_react** is an app for learning basics about using React with Rails
 
-**Link for the Frontend repository:** [URL](https://github.com/ngeelani48/hello-rails-front-end)
+**Link for the Frontend repository:** [URL](https://github.com/ngeelani48/hello-react-front-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
